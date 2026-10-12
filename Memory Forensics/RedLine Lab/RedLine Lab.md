@@ -29,6 +29,7 @@ As a member of the Security Blue team, your assignment is to analyze a memory du
 - I snapshot my VM before doing any changes
 - I first checked with my downloaded VM which was Kali Linux and I realised that I need to setup a VMnet Host-Only to isolate the VM
 - I've also checked if I have the volatility tool installed which I don't have then I proceed to install it as instructed from https://github.com/volatilityfoundation/volatility3
+
 ## **4. Steps**
 
 **Question 1: What is the name of the suspicious process?**
